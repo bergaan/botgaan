@@ -1,8 +1,8 @@
 {
-  "name" = "botgaan",
-  "author"= "bergaan",
-  "main" = "index.js",
-  "version" = "0.0.1",
+  "name": "botgaan",
+  "author": "bergaan",
+  "main": "index.js",
+  "version": "0.0.1",
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
