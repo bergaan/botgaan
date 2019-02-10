@@ -2,7 +2,7 @@ const discord = require('discord.js');
 const client = new discord.Client();
 var prefix = "?";
 
-client.login("NDYwODMyMDQ0ODM0ODgxNTQ3.D0DApw.GOLqz0ZFrPUlFaBh61WqqvA462k");
+client.login(process.env.TOKEN);
 
 client.on('message', message =>{
     if(message.content == "Tu fais quoi ?"){
