@@ -1,14 +1,14 @@
 {
-  "name": "discord-1337-bot",
-  "version": "0.0.1",
-  "main": "server.js",
+  "name": "Botdanov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "test": echo \"Error no test specified\" && exit 1"
   },
+  "author": "bergaan",
+  "license": "ISC",
   "dependencies": {
-    "eris": "^0.7.2"
-  },
-  "engines": {
-    "node": "8.x"
+    "discord.js": "^11.2.1"
   }
 }
